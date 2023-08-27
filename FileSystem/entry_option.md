@@ -1,9 +1,9 @@
 # File/folder options
 
 ## How to show the options
+![Entry options](images/entry_options.png)
 Each entry in the browser has a few actions that you can use to manipulate the files and folders.<br/>
 To reveal those options, long press on the file/folder or swipe right.<br/>
-![Entry options](images/entry_options.png)
 
 ## Files/folder options
 The options to manipulate files and folders are:
