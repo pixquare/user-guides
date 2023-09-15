@@ -10,6 +10,10 @@ You can also change the color of the grid. Tap on the color box to do that.
 If we want a checkerboard pattern on your canvas, you can enable this option to achieve that.<br/>
 You can also change how big the grid are and colors of the checkerboard.
 
+## Guide lines
+![Guide lines](images/guide_lines.png)<br/>
+Guide lines are similar to canvas grid above, however this will be lines instead of color block. Unlike canvas grid which appears underneath artwork's content, guide lines appears above the content.
+
 ## Canvas rotate
 ![Canvas rotate](images/canvas_rotate.png)<br/>
 You already know that you can pan the canvas using two-finger drag. But with this option you can also rotate the canvas when you twist the canvas using two fingers.
